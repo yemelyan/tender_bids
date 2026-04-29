@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+
+# Local data and heavy artifacts
+downloads/
+archive/
+logs/
+outputs/
+*.xlsx
+*.xls
+*.csv
+*.zip
+*.7z
+*.rar
+
+# IDE files
+.idea/
+.vscode/
